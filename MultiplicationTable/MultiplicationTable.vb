@@ -7,7 +7,7 @@
 Option Explicit On 'forces all variables to be declared
 Option Strict On 'forces all data types to match
 
-Module Module1
+Module MultiplicationTable
     Sub Main()
         multiplicationTable(userInput()) 'calls the function userInput and passes the value to the function multiplicationTable
     End Sub
